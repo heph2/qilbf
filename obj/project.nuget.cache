@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K99GmthaDSicY2nr2K48CyBcymXVm6Aftw2tOBEin8ykaDw1RTbmepxuqFq7Fz+COYdyjCkNBH69WYHoggsboQ==",
+  "success": true,
+  "projectFilePath": "/home/heph/env/projects/qilbf/qilbf.fsproj",
+  "expectedPackageFiles": [
+    "/home/heph/.nuget/packages/fsharp.core/6.0.1/fsharp.core.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
