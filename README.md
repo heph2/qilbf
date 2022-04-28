@@ -12,3 +12,6 @@ Usage:
 	$ qbe mandlebrot.ssa > mandlebrot.s
 	$ cc -o mandlebrot mandlebrot.s && ./mandlebrot
 
+## License
+
+qilbf it's released into a public domain. See [LICENSE](LICENSE.md).
